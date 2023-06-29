@@ -1,0 +1,10 @@
+install-fabric.sh
+__pycache__
+venv
+config.json
+*.log
+basic.tar.gz
+cert
+*.png
+*.pdf
+.DS_Store

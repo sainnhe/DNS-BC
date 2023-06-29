@@ -1,0 +1,16 @@
+{
+    "type": "hashmap",
+    "arch": "mono",
+    "protocol": "tcp",
+    "host": "0.0.0.0",
+    "port": 3456,
+    "message_size": 1024,
+    "records": {
+        "www.google.com": ["172.217.160.68", "Authority"],
+        "www.microsoft.com": ["210.192.117.42", "Resolver"]
+    },
+    "credibility": {
+        "Authority": "1",
+        "Resolver": "0.8"
+    }
+}
